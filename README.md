@@ -1,5 +1,6 @@
 ## echo Hello, world!
 
+### My stats (I work on private repo)
 ![](https://github-readme-stats.vercel.app/api?username=SCP2609&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000)
 
 
