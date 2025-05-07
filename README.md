@@ -1,16 +1,14 @@
-## Hi there 👋
+## echo Hello, world!
 
-<!--
-**SCP2609/SCP2609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github-readme-stats.vercel.app/api?username=SCP2609&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I Know .. 
+![Python](https://img.shields.io/badge/PYTHON-%23feff4d?style=for-the-badge&logo=python)
+
+
+### I use .. btw
+![Windows 11](https://img.shields.io/badge/Windows%2011-blue?style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-3DDC83?style=for-the-badge&logo=android&logoColor=white)
+
+
