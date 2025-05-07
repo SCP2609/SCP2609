@@ -12,6 +12,7 @@
 
 ### I Use .. btw
 ![Windows 11](https://img.shields.io/badge/Windows%2011-blue?style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC83?style=for-the-badge&logo=android&logoColor=white)
 
 
