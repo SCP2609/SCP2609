@@ -17,3 +17,4 @@
 ![Android](https://img.shields.io/badge/Android-3DDC83?style=for-the-badge&logo=android&logoColor=white)
 
 
+![Visitors](https://count.getloli.com/@SCP2609?name=SCP2609&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0)
